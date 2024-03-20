@@ -1,0 +1,29 @@
+
+
+.movieDetails ul{
+    list-style: none;
+}
+
+.movieDetails ul li{
+    margin-bottom: 2%;
+}
+
+/*for the poster in movie details*/
+ .shadow {
+    border-radius: 4%;
+    width: 100%;
+}
+
+
+.genre{
+    border:1px solid #cacaca;;
+    border-radius: 46%;
+    padding:1% 2%;
+    margin-inline-start:2%;
+    transition: 0.3s;
+    color:rgb(73, 73, 73);
+}
+
+.genre:hover{
+    background-color: #cacaca;
+}

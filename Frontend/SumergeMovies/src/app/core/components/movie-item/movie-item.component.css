@@ -1,0 +1,20 @@
+/*the cover for movie ( to make it have the radius and get the width for each one*/
+.movieCover .poster {
+    width: 100%;
+    border-radius: 5%;
+}
+
+.movieTitle{
+    width: 100%;
+}
+
+/* For Rating */
+.rating{
+    right:0;
+    top:0;
+    margin:7%;
+    background-color: white;
+    color: black;
+    padding:1% 2%;
+    border-radius: 8%;
+}
